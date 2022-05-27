@@ -1,5 +1,6 @@
 [![License](https://img.shields.io/github/license/quasar/Quasar.svg)](LICENSE)
 [![Downloads](https://img.shields.io/badge/Downloads-434-blue)](https://github.com/MaxicsSoft/A-nuke-Bot-for-discord)
+[![Socials]([https://img.shields.io/badge/Downloads-434-blue](https://img.shields.io/badge/link-Repl.it-blue))](https://github.com/MaxicsSoft/A-nuke-Bot-for-discord)
 
 # A-nuke-Bot-for-discord
 
@@ -26,7 +27,8 @@ You are done Setting it up!
 
 Want to run it on replit?
 
-Use this link: https://replit.com/@nanoudu30/A-nuke-Bot-for-discord
+Click here: [![Socials]([https://img.shields.io/badge/Downloads-434-blue](https://img.shields.io/badge/link-Repl.it-blue))]([https://github.com/MaxicsSoft/A-nuke-Bot-for-discord](https://replit.com/@nanoudu30/A-nuke-Bot-for-discord))
+
 
 # Contributions
 Contributions are always welcome.
