@@ -1,4 +1,4 @@
-435 downloads
+[![License](https://img.shields.io/github/license/quasar/Quasar.svg)](LICENSE)
 
 # A-nuke-Bot-for-discord
 
