@@ -23,4 +23,4 @@ You are done Setting it up!
 
 Want to run it on replit?
 
-Use this link: 
+Use this link: https://replit.com/@nanoudu30/A-nuke-Bot-for-discord
