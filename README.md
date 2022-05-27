@@ -1,4 +1,5 @@
 [![License](https://img.shields.io/github/license/quasar/Quasar.svg)](LICENSE)
+[![Downloads](https://img.shields.io/badge/Downloads-434-blue)](https://github.com/MaxicsSoft/A-nuke-Bot-for-discord)
 
 # A-nuke-Bot-for-discord
 
