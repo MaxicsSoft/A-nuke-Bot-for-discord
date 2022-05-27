@@ -26,7 +26,7 @@ You are done Setting it up!
 
 Want to run it on replit?
 
-Click here: [![Repl.it]([https://img.shields.io/badge/Downloads-434-blue](https://img.shields.io/badge/link-Repl.it-blue))]([https://github.com/MaxicsSoft/A-nuke-Bot-for-discord](https://replit.com/@nanoudu30/A-nuke-Bot-for-discord))
+Click here: [![Repl.it]([https://img.shields.io/badge/Downloads-434-blue](https://img.shields.io/badge/link-Repl.it-blue))]([[(https://replit.com/@nanoudu30/A-nuke-Bot-for-discord)]
 
 
 # Contributions
