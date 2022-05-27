@@ -26,3 +26,8 @@ You are done Setting it up!
 Want to run it on replit?
 
 Use this link: https://replit.com/@nanoudu30/A-nuke-Bot-for-discord
+
+# Contributions
+Contributions are always welcome.
+
+Please also leave a star.
