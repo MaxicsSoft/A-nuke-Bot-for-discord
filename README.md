@@ -1,3 +1,5 @@
+435 downloads
+
 # A-nuke-Bot-for-discord
 
 Hello there! Wecome to this git.
